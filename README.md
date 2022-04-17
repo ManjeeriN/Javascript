@@ -3,3 +3,4 @@ This repo covers some Jsvascript concepts includes:
 2. constructor
 3. setTimeout,setInterval (Asynchronous)
 4. Callback Functions
+5. Promises - Producing Code + Consuming code

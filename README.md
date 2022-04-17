@@ -7,3 +7,4 @@ This repo covers some Jsvascript concepts includes:
 6. Async/Await
 7. let
 8. const
+9. Arrow Functions

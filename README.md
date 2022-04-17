@@ -13,3 +13,4 @@ This repo covers some Javascript concepts includes:
 12. ES6 Set Objects // fruits.add()
 13. ES6 Javascript Classes // to create diff objects from class
 14. ES6 Symbol  // keeps values hidden in object
+15. Spread Syntax ...

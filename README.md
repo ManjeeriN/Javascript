@@ -15,3 +15,4 @@ This repo covers some Javascript concepts includes:
 14. ES6 Symbol  // keeps values hidden in object
 15. ES6 Spread Syntax ...
 16. ES6 string functions - includes, startsWith, endsWith
+17. ES6 array functions // from, keys, find, findIndex

@@ -29,4 +29,5 @@ sum(30,20)
 .then(res2=> {return sum(res2,40)})
 .then(res3=>console.log(res3))
 .catch(err=> console.log(err))
+
 // to overcome this async await

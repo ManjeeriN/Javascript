@@ -1,4 +1,4 @@
-console.log('Arrow Functions');
+console.log('ES6 Arrow Functions');
 // normal function
 function a(){
     console.group('normal function')

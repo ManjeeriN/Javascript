@@ -1,3 +1,4 @@
+// ES6
 var x= 1;
 console.log(x)
 {

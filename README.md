@@ -16,3 +16,4 @@ This repo covers some Javascript concepts includes:
 15. ES6 Spread Syntax ...
 16. ES6 string functions - includes, startsWith, endsWith
 17. ES6 array functions // from, keys, find, findIndex
+18. Export object from one js and import in other

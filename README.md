@@ -28,3 +28,5 @@ This repo covers some Javascript concepts includes:
 20. setTimeout issues
 21. Higher Order Functions and DRY principle
 22. Map function
+23. Filter function
+24. Reduce function

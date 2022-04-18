@@ -24,3 +24,22 @@ let d = function(){ // insode 'script scope'
     console.log('D')
 }
 d()
+
+// Anonymous function
+// A function without a name
+// function (){
+
+// }
+
+// Named function
+
+function xyz(){
+
+}
+
+function sum(a,b){ // parameters
+    console.log(a+b);
+}
+
+sum(1,2); // arguments
+

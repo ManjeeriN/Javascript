@@ -1,3 +1,10 @@
+Javascript - is a synchronous single threaded language, doing one task at a time.
+Synchronous - every statement of the code gets executed one by one. So, basically a statement has to wait for the earlier statement to get executed.
+Asynchronous - You can move to ther task before the previous one finishes.
+
+JavaScript is written in C++
+V8 is the name of the JavaScript engine that powers Google Chrome.
+
 This repo covers some Javascript concepts includes:
 1. closure
 2. constructor
@@ -17,4 +24,7 @@ This repo covers some Javascript concepts includes:
 16. ES6 string functions - includes, startsWith, endsWith
 17. ES6 array functions // from, keys, find, findIndex
 18. Export object from one js and import in other
-19. Function decleration, Statement, Defination withe var,let , const and normal,arrow function
+19. Function decleration, Statement, Defination withe var,let , const and normal,arrow function,Anonymous function
+20. setTimeout issues
+21. Higher Order Functions and DRY principle
+22. Map function

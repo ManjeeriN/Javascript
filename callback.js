@@ -28,3 +28,16 @@ console.log(shortnames)
     Sum(1,2,callbackSum)
 
     //Functions running in parallel with other functions are called asynchronous
+
+    
+// simple callback function
+    function a(cb){
+        cb()
+    }
+    function b(){
+        console.log('B')
+    }
+    a(b);
+
+
+    

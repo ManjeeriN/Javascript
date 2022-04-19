@@ -43,3 +43,15 @@ function sum(a,b){ // parameters
 
 sum(1,2); // arguments
 
+// Object Methods
+
+const Person = {
+    firstName :'Jane',
+    age : 20,
+    lastName : 'Oliver',
+    fullName : function(){
+        return this.firstName + " " + this.lastName
+    }
+}
+console.log(Person.fullName()) // Jane Oliver
+

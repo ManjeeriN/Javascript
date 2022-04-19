@@ -24,7 +24,7 @@ This repo covers some Javascript concepts includes:
 16. ES6 string functions - includes, startsWith, endsWith
 17. ES6 array functions // from, keys, find, findIndex
 18. Export object from one js and import in other
-19. Function decleration, Statement, Defination withe var,let , const and normal,arrow function,Anonymous function
+19. Function decleration, Statement, Defination withe var,let , const and normal,arrow function,Anonymous function. Object Methods
 20. setTimeout issues
 21. Higher Order Functions and DRY principle
 22. Map function
@@ -32,3 +32,15 @@ This repo covers some Javascript concepts includes:
 24. Reduce function
 25. delete operator and  use of spread operator to prevent deleting when reassigned.
 26. Generator functions and yield
+27. String 
+    A.slice(start, end)
+    B.substring(start, end) // cannot be negative
+    C.substr(start, length) // can be negative - counts from end
+    D. replace(a,b)
+        a. /g - globally
+        b. /i - not case sesitive
+    E. toUpperCase, toLowerCase
+    F. padStart,padEnd
+    G. Extracting String Characters charAt(1), charCodeAt(0);
+    H. String to Array split()
+    I. find ocurance of each letter in string

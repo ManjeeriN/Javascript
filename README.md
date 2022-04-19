@@ -44,3 +44,11 @@ This repo covers some Javascript concepts includes:
     G. Extracting String Characters charAt(1), charCodeAt(0);
     H. String to Array split()
     I. find ocurance of each letter in string
+    J. String indexOf()
+        String lastIndexOf()
+        String startsWith()
+        String endsWith()
+        str.search("locate");
+        match()
+        includes()
+28. Template Strings `${}`

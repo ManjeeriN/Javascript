@@ -67,3 +67,7 @@ for (letter of test3){
 }
 
 console.log(letterArr)
+console.log(test3.search("There")); // 6
+console.log(test3.match(/ere/g)); // give all occurances in array
+console.log(test3.match(/ain/gi)); // do a case insensitive search
+test3.includes("world"); // does it include

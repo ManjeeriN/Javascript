@@ -30,3 +30,4 @@ This repo covers some Javascript concepts includes:
 22. Map function
 23. Filter function
 24. Reduce function
+25. delete operator and  use of spread operator to prevent deleting when reassigned.

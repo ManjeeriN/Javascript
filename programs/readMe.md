@@ -1,0 +1,2 @@
+# When a line ends with `)` and the next line starts with `[,` the parser thinks: "Maybe this is array/bracket notation on the previous line" — like something()[index]. So ASI doesn't kick in. 
+# Adding a semicolon after `)` tells the parser explicitly that the statement is complete, preventing it from trying to merge with line starts with `[,`.

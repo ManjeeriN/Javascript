@@ -3,5 +3,5 @@
 
 # LinkedList: 
 ## A ListNode is an object that represents a "node" in a linked list, with two main fields
-### Val (or value): The value stored in the node
-### next: A reference to the next node in the list (or 'null' if it's the last one)
+- Val (or value): The value stored in the node
+- next: A reference to the next node in the list (or 'null' if it's the last one)

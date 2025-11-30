@@ -2,6 +2,8 @@
     - When a line ends with `)` and the next line starts with `[,` the parser thinks: "Maybe this is array/bracket notation on the previous line" — like something()[index]. So ASI doesn't kick in.
     - Adding a semicolon after `)` tells the parser explicitly that the statement is complete, preventing it from trying to merge with line starts with `[,`.
 
+- https://internshala.com/blog/infosys-power-programmer-coding-questions-and-answers/ in javaScript
+
 ## LinkedList: 
 ### A ListNode is an object that represents a "node" in a linked list, with two main fields
 - Val (or value): The value stored in the node

@@ -20,3 +20,24 @@ Return true ✅ (29 is prime)
 ```
 ## LCS - Longest Common subsequence. 
 - The longest common subsequence (LCS) is the longest sequence that appears in the same relative order (not necessarily consecutively) in both given sequences.
+
+## Infix Expression
+- ("operand1 operator operand2" ) a + b
+- The precedence order is as follows: (^) has the highest precedence and is evaluated from right to left, (* and /) come next with left to right associativity, and (+ and -) have the lowest precedence with left to right associativity.
+
+```
+Operator	Precedence
+Parentheses ()	Highest
+Exponents ^	High
+Multiplication *	Medium
+Division /	Medium
+Addition +	Low
+Subtraction -	Low
+```
+
+## Prefix Expression
+- In prefix notation, the operator is written first, followed by its operands. For example, the infix expression "a + b" would be written as "+ a b" in prefix notation.
+
+## Postfix Expression
+- the operator follows its operands.
+-  operands are written first, followed by the operator. For example, the infix expression "5 + 2" would be written as "5 2 +" in postfix notation.

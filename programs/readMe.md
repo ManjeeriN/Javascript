@@ -26,13 +26,13 @@ Return true ✅ (29 is prime)
 - The precedence order is as follows: (^) has the highest precedence and is evaluated from right to left, (* and /) come next with left to right associativity, and (+ and -) have the lowest precedence with left to right associativity.
 
 ```
-Operator	Precedence
-Parentheses ()	Highest
-Exponents ^	High
-Multiplication *	Medium
-Division /	Medium
-Addition +	Low
-Subtraction -	Low
+Operator |	| Precedence
+Parentheses | () | Highest
+Exponents | ^ |	High
+Multiplication | * | Medium
+Division | / | Medium
+Addition | + | Low
+Subtraction | - | Low
 ```
 
 ## Prefix Expression

@@ -43,3 +43,6 @@ Return true ✅ (29 is prime)
 ## Postfix Expression
 - the operator follows its operands.
 -  operands are written first, followed by the operator. For example, the infix expression "5 + 2" would be written as "5 2 +" in postfix notation.
+
+## Angarams
+- If the strings are anagrams, then their characters will be the same, just rearranged. Therefore, if we sort the characters in both strings, the sorted strings will be identical if the original strings were anagrams.

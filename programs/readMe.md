@@ -18,3 +18,5 @@ i=5: 29%5=4≠0, 29%7=1≠0  → continue
 i=11: 11*11=121 > 29 → exit loop
 Return true ✅ (29 is prime)
 ```
+## LCS - Longest Common subsequence. 
+- The longest common subsequence (LCS) is the longest sequence that appears in the same relative order (not necessarily consecutively) in both given sequences.

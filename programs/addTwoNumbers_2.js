@@ -39,7 +39,7 @@ const l2 = createLinkedList([9,9,9])
 
 const addTwoNumbers = (l1, l2) => {
     // create a result listnode
-    let resultList = createLinkedList([0]);
+    let resultList = new ListNode(-1)
 
     let pointer = resultList;
     let carry = 0;

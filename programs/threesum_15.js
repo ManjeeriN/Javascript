@@ -24,3 +24,4 @@ const threesum = (arrp) => {
     return Array.from(new Set(result.map(JSON.stringify))).map(JSON.parse)
 }
 console.log(threesum([-1,0,1,2,-1,-4,-2,-3,3,0,4]))
+// doesnt satisfy this condition
